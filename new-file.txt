@@ -11,8 +11,6 @@ task2
 
 task3
 
-<<<<<<< HEAD
-=======
 task4
 
->>>>>>> task1
+task5
